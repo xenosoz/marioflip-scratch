@@ -1,7 +1,7 @@
 Marioflip-scratch
 =================
 
-A card matching toy project written in [Scratch](http://scratch.mit.edu/).
+Super Mario Bros 3's cardflip minigame written in [Scratch](http://scratch.mit.edu/).
 
 ![Marioflip preview](screenshots/Marioflip_preview_test.png)
 
