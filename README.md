@@ -12,6 +12,9 @@ Credits
 * [Scratch](http://scratch.mit.edu/) is a visual programming language by
   [MIT Media Lab](http://www.media.mit.edu/).
 * Image resources are from
-[Super Mario Bros. 3](http://en.wikipedia.org/wiki/Super_Mario_Bros._3), a
-famous video game developed/published by
+[Super Mario Bros. 3](http://en.wikipedia.org/wiki/Super_Mario_Bros._3), a famous video game developed/published by
 [Nintendo](http://www.nintendo.com/).
+* Sound resources are mainly from
+  [Mario Mayhem](http://www.mariomayhem.com/) and they claim they're in no
+  way affiliated Nintendo.
+* Character names and all Mario sprites, sound resources are copyrights of Nintendo Co. Ltd.
